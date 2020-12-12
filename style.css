@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box ;
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form-box{
+    border: 2px solid green;
+    padding: 10px;
+}
+
+.form-box-2{
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.col{
+    padding: 20px;
+}
+.fa{
+    color: teal;
+}
+#batton{
+    background-color: teal;
+    border-color: teal ;
+}
